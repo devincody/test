@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-<iframe width="600" height="600" frameborder="0" scrolling="no" src="//plot.ly/~RPlotBot/3502.embed"></iframe>
+<iframe width="600" height="500" frameborder="0" scrolling="no" src="//plot.ly/~RPlotBot/3502.embed"></iframe>
 
 ```markdown
 Syntax highlighted code block
@@ -43,7 +43,7 @@ he Jekyll theme you have selected in your [repository settings](https://github.c
 
 
 
-<iframe height="500" width="500" logo="false" frameborder="0" scrolling="no" src="//plot.ly/~IPython.Demo/1091.embed"></iframe>
+<iframe logo="false" frameborder="0" scrolling="no" src="//plot.ly/~IPython.Demo/1091.embed"></iframe>
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
