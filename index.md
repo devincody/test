@@ -29,7 +29,7 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 <div>
-    <a href="https://plot.ly/~Dreamshot/512/" target="_blank" title="Wifi Availability and Speed at Hotel Chains" style="display: block; text-align: center;"><img src="https://plot.ly/~Dreamshot/512.png" alt="Wifi Availability and Speed at Hotel Chains" style="max-width: 50%;width: 400px;"  width="400" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <a href="https://plot.ly/~Dreamshot/512/" target="_blank" title="Wifi Availability and Speed at Hotel Chains" style="display: block; text-align: center;"><img src="https://plot.ly/~Dreamshot/512.png" alt="Wifi Availability and Speed at Hotel Chains" style="max-width: 50%;width: 400px;"  width="400px" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
     <script data-plotly="Dreamshot:512" src="https://plot.ly/embed.js" async></script>
 </div>
 
@@ -39,7 +39,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/devincody/test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-<iframe width="400" modebar="false" logo="false" frameborder="0" scrolling="no" src="//plot.ly/~Dreamshot/512.embed"></iframe>
+<iframe width="400px" modebar="false" logo="false" frameborder="0" scrolling="no" src="//plot.ly/~Dreamshot/512.embed"></iframe>
 
 
 ### Support or Contact
