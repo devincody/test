@@ -30,7 +30,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-<iframe width="600" height="500" frameborder="0" scrolling="no" src="//plot.ly/~AdamKulidjian/3669.embed"></iframe>
+<iframe width="600" height="700" frameborder="0" scrolling="no" src="//plot.ly/~AdamKulidjian/3669.embed"></iframe>
 
 
 ### Jekyll Themes
