@@ -30,11 +30,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-<div>
-    <a href="https://plot.ly/~Dreamshot/512/" target="_blank" title="Wifi Availability and Speed at Hotel Chains" style="display: block; text-align: center;"><img src="https://plot.ly/~Dreamshot/512.png" alt="Wifi Availability and Speed at Hotel Chains" style="max-width: 100%;width: 200px;height: 300px"  height="400px" width="200px" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="Dreamshot:512" src="https://plot.ly/embed.js" async></script>
-</div>
-
+<iframe width="500" height="400" frameborder="0" scrolling="no" src="//plot.ly/~AdamKulidjian/3669.embed"></iframe>
 
 
 ### Jekyll Themes
