@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-<iframe width="450" height="400" frameborder="0" scrolling="no" src="//plot.ly/~RPlotBot/3502.embed"></iframe>
+<iframe width="600" height="600" frameborder="0" scrolling="no" src="//plot.ly/~RPlotBot/3502.embed"></iframe>
 
 ```markdown
 Syntax highlighted code block
@@ -37,13 +37,13 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/devincody/test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-<iframe height="700" width="50%" frameborder="0" scrolling="no" src="//plot.ly/~Dreamshot/512.embed"></iframe>
+<iframe height="700" width="500" scale="0.3" frameborder="0" scrolling="no" src="//plot.ly/~Dreamshot/512.embed"></iframe>
 
 he Jekyll theme you have selected in your [repository settings](https://github.com/devincody/test/settings). The name.
 
 
 
-<iframe height="500" width="50%" logo="false" frameborder="0" scrolling="no" src="//plot.ly/~IPython.Demo/1091.embed"></iframe>
+<iframe height="500" width="500" logo="false" frameborder="0" scrolling="no" src="//plot.ly/~IPython.Demo/1091.embed"></iframe>
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
