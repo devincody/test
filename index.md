@@ -37,13 +37,13 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/devincody/test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-<iframe width="600" height="700" frameborder="0" scrolling="no" src="//plot.ly/~Dreamshot/512.embed"></iframe>
+<iframe width="800" height="700" frameborder="0" scrolling="no" src="//plot.ly/~Dreamshot/512.embed"></iframe>
 
 he Jekyll theme you have selected in your [repository settings](https://github.com/devincody/test/settings). The name.
 
 
 
-<iframe width="700" height="700" logo="false" frameborder="0" scrolling="no" src="//plot.ly/~IPython.Demo/1091.embed"></iframe>
+<iframe width="500" height="500" zoom=".70" logo="false" frameborder="0" scrolling="no" src="//plot.ly/~IPython.Demo/1091.embed"></iframe>
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
