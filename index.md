@@ -30,14 +30,14 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-<iframe width="700" height="700" frameborder="0" scrolling="no" src="//plot.ly/~AdamKulidjian/3669.embed"></iframe>
+<iframe width="600" height="600" frameborder="0" scrolling="no" src="//plot.ly/~AdamKulidjian/3669.embed"></iframe>
 
 
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/devincody/test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-<iframe width="800" height="700" width="100%" frameborder="0" scrolling="no" src="//plot.ly/~Dreamshot/512.embed"></iframe>
+<iframe height="700" width="50%" frameborder="0" scrolling="no" src="//plot.ly/~Dreamshot/512.embed"></iframe>
 
 he Jekyll theme you have selected in your [repository settings](https://github.com/devincody/test/settings). The name.
 
