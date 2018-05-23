@@ -30,7 +30,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-<iframe width="600" height="700" frameborder="0" scrolling="no" src="//plot.ly/~AdamKulidjian/3669.embed"></iframe>
+<iframe width="700" height="700" frameborder="0" scrolling="no" src="//plot.ly/~AdamKulidjian/3669.embed"></iframe>
 
 
 ### Jekyll Themes
@@ -43,7 +43,7 @@ he Jekyll theme you have selected in your [repository settings](https://github.c
 
 
 
-<iframe width="400" height="400" logo="false" frameborder="0" scrolling="no" src="//plot.ly/~IPython.Demo/1091.embed"></iframe>
+<iframe width="700" height="700" logo="false" frameborder="0" scrolling="no" src="//plot.ly/~IPython.Demo/1091.embed"></iframe>
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
