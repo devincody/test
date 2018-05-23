@@ -41,6 +41,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 <iframe width="400px" modebar="false" logo="false" frameborder="0" scrolling="no" src="//plot.ly/~Dreamshot/512.embed"></iframe>
 
+he Jekyll theme you have selected in your [repository settings](https://github.com/devincody/test/settings). The name.
+
 
 
 <iframe width="90" height="80" frameborder="0" scrolling="no" src="//plot.ly/~IPython.Demo/1091.embed"></iframe>
