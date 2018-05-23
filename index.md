@@ -42,6 +42,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 <iframe width="400px" modebar="false" logo="false" frameborder="0" scrolling="no" src="//plot.ly/~Dreamshot/512.embed"></iframe>
 
 
+
+<iframe width="90" height="80" frameborder="0" scrolling="no" src="//plot.ly/~IPython.Demo/1091.embed"></iframe>
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
