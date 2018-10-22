@@ -23,13 +23,16 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-$\exp(\pi i) - 1 = 0$
+
 
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
+
+$\exp(\pi i) - 1 = 0$
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
