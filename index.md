@@ -6,6 +6,11 @@ categories: mypost
 ---
 
 
+$$ E = m\cdot c^2 \label{eq:mc2}$$
+
+In a sentence: $ J(x) = \int{L(t, x, \dot{x}) dt} \$
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/devincody/test/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
