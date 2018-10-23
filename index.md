@@ -5,7 +5,7 @@ date:   2018-10-22 10:44:32 +0100
 categories: mypost
 ---
 
-    $$ E = M\cdot c^2 \label{eq:mc2} $$
+$$ E = M\cdot c^2 \label{eq:mc2} $$
 
 In a sentence: $ J(x) = \int{L(t, x, \dot{x}) dt} $
 
