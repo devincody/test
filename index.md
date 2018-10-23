@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "How to set up MathJax on Jekyll and GitHub properly?"
+date:   2017-03-28 10:44:32 +0100
+categories: mypost
+---
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/devincody/test/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
