@@ -31,7 +31,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-$\exp(\pi i) - 1 = 0$
+$$\exp(\pi i) - 1 = 0$$
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
