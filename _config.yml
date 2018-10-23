@@ -11,7 +11,7 @@ email: devincody@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Test blog. Please ignore.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "devincody.github.io" # the base hostname & protocol for your site
+url: "devincody.github.io/test" # the base hostname & protocol for your site
 github_username:  devincody
 
 # Build settings
