@@ -1,14 +1,13 @@
 ---
 layout: post
-title:  "How to set up MathJax on Jekyll and GitHub properly?"
-date:   2017-03-28 10:44:32 +0100
+title:  "TEST POST"
+date:   2018-10-22 10:44:32 +0100
 categories: mypost
 ---
 
+    $$ E = M\cdot c^2 \label{eq:mc2} $$
 
-$$ E = m\cdot c^2 \label{eq:mc2}$$
-
-In a sentence: $ J(x) = \int{L(t, x, \dot{x}) dt} \$
+In a sentence: $ J(x) = \int{L(t, x, \dot{x}) dt} $
 
 
 ## Welcome to GitHub Pages
